@@ -6,7 +6,7 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2016/sports/nfl-power-rankings"
+      "path": "2017/sports/nfl-power-rankings"
     }
   },
   "title": "",
@@ -15,7 +15,7 @@
   "slug": "",
   "tags": [],
   "image": "assets/social.jpg",
-  "sheets": ["1xhskspEr55Ma1QIcTBzkjK9M8Au3H2FIy8AY2ZioyOQ"],
+  "sheets": ["1125Y16pcZbbuQxYgsEmEn0rQZz9zb-nvKirAxdHqLrk"],
   "production": true,
   "embedded": true
 }
